@@ -1,4 +1,4 @@
-# Reqres
+# Reqres API Tests
 
 ## Project Overview
 This project contains API tests for the [reqres.in](https://reqres.in/) application.
